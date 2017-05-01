@@ -1,0 +1,13 @@
+{
+  "name": "dylan's cl tic tac toe",
+  "version": "0.0.1",
+  "description": "Tic, Tac, Ticky to the Tacky, Tic Tac Toe",
+  "author": "dylan js",
+  "scripts": {
+    "start": "node commandLineTicTacToe.js"
+  },
+  "main": "commandLineTicTacToe/commandLineTicTacToe.js",
+  "dependencies": {
+    "prompt-promise": "^1.0.3"
+  }
+}
